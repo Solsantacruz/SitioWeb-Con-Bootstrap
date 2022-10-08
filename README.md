@@ -1,5 +1,5 @@
 # SitioWeb-Con-Bootstrap
-Sitio web creado con Bootstrap.
+Sitio web creado con Bootstrap 5.
 
 RECREACION DE SITIO WEB ANIMAL CROSS
 
